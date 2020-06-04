@@ -12,7 +12,5 @@ class Quiz extends React.Component{
      <div className="QuizQuestion"></div>
    );
  }
-
 }
-
-  export default Quiz;
+export default Quiz;
